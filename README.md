@@ -3,7 +3,7 @@
 Cette application Flask est un exemple simple qui permet de créer, modifier et supprimer des employés dans une base de données. Elle utilise une API Flask pour gérer les différentes opérations.
 
 ## Prérequis
-
+-   Debian 11/12
 -   Python 3.x installé sur votre machine
 -   Git installé pour cloner le dépôt
 -   python3-venv pour créer un environnement virtuel
