@@ -15,7 +15,7 @@ Cette application Flask est un exemple simple qui permet de créer, modifier et 
     
 
 ```
-git clone https://github.com/votre_utilisateur/Pyhton-flask-app.git
+git clone [https://github.com/votre_utilisateur/Pyhton-flask-app.git](https://github.com/anis-metref/Python-flask-App.git)
 
 ```
 
