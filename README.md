@@ -27,7 +27,7 @@ git clone https://github.com/anis-metref/Python-flask-App.git
     
 
 ```cpp
-cd Pyhton-flask-app/flask_employee_app
+cd Python-flask-App/flask_employee_app/
 
 ```
 
