@@ -76,7 +76,7 @@ Pour initialiser la base de données avec Flask-Migrate, vous devez exécuter le
 
 1.  Initialisez la base de données :
     
-    cpp
+
     
 
 ```cpp
@@ -86,7 +86,6 @@ flask db init
 
 -   Effectuez la première migration en spécifiant un message descriptif :
     
-    cpp
     
 
 ```cpp
@@ -95,9 +94,7 @@ flask db migrate -m "Migration initiale"
 ```
 
 -   Mettez à jour la base de données avec les modifications apportées :
-    
-    cpp
-    
+  
 
 ```cpp
 flask db upgrade
