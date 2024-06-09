@@ -71,6 +71,41 @@ pip install -r requirements.txt
 
 ```
 
+## Initialiser la base de donnés
+Pour initialiser la base de données avec Flask-Migrate, vous devez exécuter les commandes suivantes :
+
+1.  Initialisez la base de données :
+    
+    cpp
+    
+
+```cpp
+flask db init
+
+```
+
+-   Effectuez la première migration en spécifiant un message descriptif :
+    
+    cpp
+    
+
+```cpp
+flask db migrate -m "Migration initiale"
+
+```
+
+-   Mettez à jour la base de données avec les modifications apportées :
+    
+    cpp
+    
+
+```cpp
+flask db upgrade
+
+```
+
+Assurez-vous d'exécuter ces commandes dans votre environnement virtuel après avoir activé l'environnement virtuel avec la commande `source venv/bin/activate`.
+
 ## Utilisation
 
 1.  Exécutez le fichier `manage.py` pour lancer l'application Flask :
