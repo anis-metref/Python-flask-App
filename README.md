@@ -6,6 +6,8 @@ Cette application Flask est un exemple simple qui permet de créer, modifier et 
 
 -   Python 3.x installé sur votre machine
 -   Git installé pour cloner le dépôt
+-   python3-venv pour créer un environnement virtuel
+-   python3-pip pour installer les paquets Python
 
 ## Installation
 
